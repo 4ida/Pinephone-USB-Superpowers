@@ -13,3 +13,5 @@ PC Internet -> Phone
 Phone Keyboard -> PC
  \- Also for preset or clipboard content to automatically type in to PC (For example paste password in app and it will be typed out in PC)
 Phone as Ventoy-like tool to boot ISO on PC
+
+(Unsure) Phone touch / mouse -> PC mouse (kde connect vibes)
